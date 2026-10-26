@@ -1,25 +1,24 @@
-# PT Product App 🛍️
-> **Ứng dụng Demo minh họa Nền tảng OOP Nâng Cao & Kỹ thuật Xử lý Lỗi trong Dart/Flutter**
+# PT Product App
 
 ---
 
-## 👥 Nhóm tác giả (Sinh viên thực hiện)
+## Nhóm tác giả
 - **Huỳnh Ngọc Tịnh Phong**
 - **Phạm Nhật Tân**
 
 ---
 
-## 📖 Giới thiệu dự án
+## Giới thiệu dự án
 
 **PT Product App** là ứng dụng Flutter quản lý kho sản phẩm, được xây dựng nhằm hiện thực hóa và demo thực tế các kiến thức chuyên sâu về:
 1. **Lập trình hướng đối tượng nâng cao (Advanced OOP)**: *Named Constructor*, *Factory Constructor*, *Mixins*, và *Generics*.
 2. **Kỹ thuật xử lý lỗi chuyên sâu (Error Handling)**: *Phân cấp Custom Exception*, *Cấu trúc try-catch-finally*, *Result Pattern (Dart 3 Sealed Classes)*, *Hàm bao bọc gom lỗi tập trung (Safe Wrapper)*, và *Ghi nhật ký ra file ngoài (File Logging)*.
 
-Ứng dụng đảm bảo tiêu chí **Zero-Crash** (ứng dụng không bao giờ bị dừng đột ngột do ngoại lệ runtime), đồng thời mang lại trải nghiệm người dùng thân thiện, giao diện tinh gọn và mã nguồn theo chuẩn **Clean Code**.
+Ứng dụng đảm bảo tiêu chí không bao giờ bị dừng đột ngột do ngoại lệ runtime, đồng thời mang lại trải nghiệm người dùng thân thiện, giao diện tinh gọn và mã nguồn theo chuẩn **Clean Code**.
 
 ---
 
-## 🚀 Các tính năng chính & Kiến thức áp dụng
+## Các tính năng chính & Kiến thức áp dụng
 
 ### 1. Lập trình Hướng đối tượng nâng cao (OOP)
 - **Named Constructor**:
@@ -52,7 +51,7 @@
 
 ---
 
-## 📂 Cấu trúc thư mục dự án
+## Cấu trúc thư mục dự án
 
 ```text
 product_app/
@@ -85,7 +84,7 @@ product_app/
 
 ---
 
-## 🛠️ Hướng dẫn cài đặt và chạy ứng dụng
+## Hướng dẫn cài đặt và chạy ứng dụng
 
 ### Yêu cầu môi trường
 - **Flutter SDK**: >= 3.12.0
@@ -124,7 +123,7 @@ product_app/
 
 ---
 
-## 🧪 Các kịch bản kiểm thử mẫu (Test Scenarios)
+## Các kịch bản kiểm thử mẫu (Test Scenarios)
 
 | Thao tác người dùng | Dữ liệu kiểm thử | Kết quả bắt lỗi | Ghi log ra file |
 | :--- | :--- | :--- | :---: |
@@ -135,5 +134,5 @@ product_app/
 
 ---
 
-## 📄 Bản quyền
+## Bản quyền
 Dự án được xây dựng phục vụ cho mục đích học tập và báo cáo học phần môn Lập trình đa nền tảng (Cross-platform Development).
